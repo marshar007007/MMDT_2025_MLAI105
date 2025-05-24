@@ -37,7 +37,7 @@ git push origin yourname
 ```
 
 ### 6. Create a Pull Request
-- Go to your GitHub repository.
+- Go to [https://github.com/Myanmar-Data-Tech/MMDT_2025_MLAI101](MLAI_batch01)
 - Click **“Compare & pull request”**.
 - Title the pull request as: `<Mid-term> Project Submission - Your Name`
 - Confirm your changes and submit the pull request to the **main repository**.
